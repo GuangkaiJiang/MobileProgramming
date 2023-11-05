@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipView</string>
+    <string name="roll">Let luck decide </string>
+    <string name="dice">DICE</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hi">Hi</string>
+    <string name="plsnocomplain">Try it again</string>
+    <string name="calculate">Calculate</string>
+    <string name="thebutton">NOTaBUTTON</string>
+    <string name="default_web_client_id">256170496819-at860l17ij3m35t1iksnba8l1g3u5gm8.apps.googleusercontent.com</string>
+</resources>
