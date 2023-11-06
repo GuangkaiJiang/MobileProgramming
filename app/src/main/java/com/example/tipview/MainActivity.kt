@@ -138,11 +138,8 @@ class MainActivity : AppCompatActivity() {
         )
 
         val db = Firebase.firestore
-        db.collection("payments").document("helloworld")
+        db.collection("payments").document(timestamp)
             .set(paymentDetails)
-
-
-
     }
 
     private fun rollDice() {
